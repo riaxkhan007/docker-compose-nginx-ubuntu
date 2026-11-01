@@ -1,0 +1,19 @@
+PORTFOLIO PROJECT FIELDS
+
+Title
+Docker Compose Flask Deployment with Nginx Reverse Proxy
+
+Role
+Linux / Docker Deployment Engineer
+
+Description
+Deployed a containerized Python Flask application on Ubuntu using Docker Compose and Nginx as a reverse proxy. Built a custom Python image, ran the application with Gunicorn under a non-root user, and connected services through a dedicated Docker bridge network. Configured HTTP routing, forwarded client headers, and health endpoints. Documented deployment, validation, and troubleshooting procedures.
+
+Technologies / Skills
+Ubuntu Linux; Docker; Docker Compose; Nginx; Python; Flask; Gunicorn; Reverse Proxy; Docker Networking; TCP/IP
+
+Project URL
+https://github.com/riaxkhan007/docker-compose-nginx-ubuntu
+
+Accuracy note
+This deployment uses plain HTTP on port 80. Do not state that HTTPS, a public domain, Kubernetes, CI/CD, or production monitoring has been implemented.
